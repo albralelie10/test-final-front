@@ -1,11 +1,6 @@
     import {useState,useEffect} from "react"
     import { NavLink } from "react-router-dom"
-  const userInfo={
-        nombre:"YOSABA",
-        email:"yosaba@test.com",
-        age:32,
-        password:"112233"
-      }
+ 
 
 
     export const Home = () => {
